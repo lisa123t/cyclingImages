@@ -2,37 +2,37 @@ window.onload = cycle;
 
 const banners = [
     {
-        src: '/Users/lisatomasetti/Desktop/superhero/banner-images/image1.GIF', 
+        src: 'image1.GIF', 
         url: 'churchandunioncharleston.com', 
         caption: "Church and Union Restaurant, downtown Charleston SC"
     }, 
     {
-        src: '/Users/lisatomasetti/Desktop/superhero/banner-images/image2.GIF', 
+        src: 'image2.GIF', 
         url: 'visitfolly.com', 
         caption: "Streets in the beautiful local town, Folly Beach SC"
     }, 
     {
-        src: '/Users/lisatomasetti/Desktop/superhero/banner-images/image3.GIF',
+        src: 'image3.GIF',
         url: 'marketpavilion.com',  
         caption: "Rooftop bar at the Market Pavillon Hotel in downtown Charleston"
     }, 
     {
-        src: '/Users/lisatomasetti/Desktop/superhero/banner-images/image4.GIF', 
+        src: 'image4.GIF', 
         url: 'thecharlestoncitymarket.com', 
         caption: 'Streets of the historic city markets in downtown Charleston'
     }, 
     {
-        src: '/Users/lisatomasetti/Desktop/superhero/banner-images/image5.GIF', 
+        src: 'image5.GIF', 
         url: 'charleston.com/charleston-insider/lowcountry-lifestyles/the-captivating-history-of-rainbow-row',
         caption: 'Captivating Rainbow Row of downtown Charleston'
     }, 
     {
-        src: '/Users/lisatomasetti/Desktop/superhero/banner-images/image6.GIF', 
+        src: 'image6.GIF', 
         url: 'calhounmansion.net/', 
         caption: 'Historic mansion used in filming of the Notebook'
     }, 
     {
-        src: '/Users/lisatomasetti/Desktop/superhero/banner-images/image7.GIF', 
+        src: 'image7.GIF', 
         url: 'scpictureproject.org/charleston-county/sc-palmetto-tree.html', 
         caption: 'The famous palmetto tree, depicted on the South Carolina State Flag'
     }
