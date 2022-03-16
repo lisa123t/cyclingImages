@@ -3,37 +3,37 @@ window.onload = cycle;
 const banners = [
     {
         src: 'image1.GIF', 
-        url: 'churchandunioncharleston.com', 
+        url: 'http://www.churchandunioncharleston.com', 
         caption: "Church and Union Restaurant, downtown Charleston SC"
     }, 
     {
         src: 'image2.GIF', 
-        url: 'visitfolly.com', 
+        url: 'http://www.visitfolly.com', 
         caption: "Streets in the beautiful local town, Folly Beach SC"
     }, 
     {
         src: 'image3.GIF',
-        url: 'marketpavilion.com',  
+        url: 'http://www.marketpavilion.com',  
         caption: "Rooftop bar at the Market Pavillon Hotel in downtown Charleston"
     }, 
     {
         src: 'image4.GIF', 
-        url: 'thecharlestoncitymarket.com', 
+        url: 'http://www.thecharlestoncitymarket.com', 
         caption: 'Streets of the historic city markets in downtown Charleston'
     }, 
     {
         src: 'image5.GIF', 
-        url: 'charleston.com/charleston-insider/lowcountry-lifestyles/the-captivating-history-of-rainbow-row',
+        url: 'http://www.charleston.com/charleston-insider/lowcountry-lifestyles/the-captivating-history-of-rainbow-row',
         caption: 'Captivating Rainbow Row of downtown Charleston'
     }, 
     {
         src: 'image6.GIF', 
-        url: 'calhounmansion.net/', 
+        url: 'http//:www.calhounmansion.net/', 
         caption: 'Historic Calhoun Mansion used in filming of the Notebook'
     }, 
     {
         src: 'image7.GIF', 
-        url: 'scpictureproject.org/charleston-county/sc-palmetto-tree.html', 
+        url: 'http//:www.scpictureproject.org/charleston-county/sc-palmetto-tree.html', 
         caption: 'The famous palmetto tree, depicted on the South Carolina State Flag'
     }
 ]; 
