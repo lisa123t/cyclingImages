@@ -29,7 +29,7 @@ const banners = [
     {
         src: 'image6.GIF', 
         url: 'calhounmansion.net/', 
-        caption: 'Historic mansion used in filming of the Notebook'
+        caption: 'Historic Calhoun Mansion used in filming of the Notebook'
     }, 
     {
         src: 'image7.GIF', 
